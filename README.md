@@ -27,7 +27,7 @@ composer install
 
 # Set up the .env file
  
- create database in MYSQL and save that name on .env file
+ create database on MYSQL and save that name on .env file
 
 # Database Migrations
 
